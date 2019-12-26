@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    background-color: #24eecc;
+}
+.subtitulo{
+    border: solid 2px;
+    font-family: arial;
+}
+#video_derecha{
+    float: right;
+}
+body {
+    background-color: #d392b2;
+}
+#minion{
+    margin-left:300px;
+}
